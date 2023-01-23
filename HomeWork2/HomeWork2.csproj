@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HomeWork2.Sample05</StartupObject>
+    <StartupObject>HomeWork2.DzSwitch</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassSwitch.cs" />
+    <Compile Include="DzSwitch.cs" />
     <Compile Include="Sample01.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sample02.cs" />
@@ -60,10 +62,6 @@
     <ProjectReference Include="..\..\Utilis\Utilis.csproj">
       <Project>{84be58e3-9f83-455d-a031-fe862c048bb3}</Project>
       <Name>Utilis</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Utilits\ClassSwitch\ClassSwitch.csproj">
-      <Project>{7b856e7f-85a8-44b5-8d09-d9d33821c374}</Project>
-      <Name>ClassSwitch</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

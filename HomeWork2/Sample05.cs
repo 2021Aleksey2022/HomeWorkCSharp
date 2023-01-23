@@ -7,14 +7,19 @@ using Utilis;
 
 namespace HomeWork2
 {
+    /// <summary>
+    /// Вычисление индекса массы тела
+    /// </summary>
     internal class Sample05
     {
         static void Main(string[] args)
         {
-            Console.SetCursorPosition(30, 0);
-            Console.WriteLine("5 задание. Вычисление индекса массы тела.");
-
+            WightHuman();
+        }
+        public static void WightHuman()
+        {
             Console.BackgroundColor = ConsoleColor.Red;
+            Console.WriteLine("5 задание. Вычисление индекса массы тела.");          
             Outputhelpers.PrintInfo(2, "Щербаков Алексей Алескандрович");
 
             int weight;

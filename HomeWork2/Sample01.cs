@@ -9,7 +9,8 @@ using HomeWork2;
 namespace HomeWork2
 {
 
-    public static class Sample01
+    
+    public  class Sample01
     {
         /// <summary>
         ///Метод, возвращающий минимальное из трёх чисел 
@@ -38,7 +39,7 @@ namespace HomeWork2
             Console.Write("Введите третье число: ");
             int c = int.Parse(Console.ReadLine());
             number = a <= b && a <= c ? a : (b <= a && b <= c ? b : c);
-            Console.WriteLine($"Минимально число: {number}");
+            Console.WriteLine($"Минимальное число: {number}");
             Console.WriteLine("Нажмите любую клавишу для выхода....");
             Console.ReadKey();
             return number;
