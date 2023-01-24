@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Utilis;
-using HomeWork2;
 
-namespace HomeWork2
+namespace HomeWork_3
 {
-    public static class Sample03
+    internal class ClassNumbresSum
     {
         static void Main(string[] args)
         {
             Console.BackgroundColor = ConsoleColor.Red;
-            Outputhelpers.PrintInfo(2, "Щербаков Алексей Александолвич");
+            Outputhelpers.PrintInfo(3, "Щербаков Алексей Александолвич");
             Console.WriteLine("Вводите числа, пока не будет введён ноль для подсчёта нечетных положительных чисел: ");
             Console.WriteLine("------------------------------------------------------------------------------------");
             Console.WriteLine("Сумма нечетных положительных чисел: {0}", SumOdd(0));
@@ -24,16 +23,22 @@ namespace HomeWork2
         public static int SumOdd(int sum)
         {
             Console.BackgroundColor = ConsoleColor.Red;
-            int number = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Вы ввели число: {number}");
-            if(number == 0)
+            int number;
+            
+            //number = bool.TryParse(Console.ReadLine(), out number);
+           // Console.WriteLine($"Вы ввели число: {number}");
+            if (int.TryParse(Console.ReadLine(), out number))
             {
-                Console.WriteLine("Считаем....");
-                Console.WriteLine("Нажмите Enter для получения результата: ");
-                Console.ReadLine();
-                return sum;
+                Console.WriteLine($"Вы ввели число: {number}");
+                if (number == 0)
+                {
+                    Console.WriteLine("Считаем....");
+                    Console.WriteLine("Нажмите Enter для получения результата: ");
+                    Console.ReadLine();
+                    return sum;
+                }               
             }
-            if(number > 0 && number % 2 == 1)            
+            if (number > 0 && number % 2 == 1)
                 return SumOdd(number + sum);
             return SumOdd(sum);
         }

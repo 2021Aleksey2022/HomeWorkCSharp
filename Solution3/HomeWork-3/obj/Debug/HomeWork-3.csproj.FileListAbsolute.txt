@@ -1,0 +1,11 @@
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\bin\Debug\HomeWork-3.exe.config
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\bin\Debug\HomeWork-3.exe
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\bin\Debug\HomeWork-3.pdb
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\bin\Debug\Utilis.dll
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\bin\Debug\Utilis.pdb
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\obj\Debug\HomeWork-3.csproj.AssemblyReference.cache
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\obj\Debug\HomeWork-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\obj\Debug\HomeWork-3.csproj.CoreCompileInputs.cache
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\obj\Debug\HomeWork-3.csproj.CopyComplete
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\obj\Debug\HomeWork-3.exe
+C:\Users\manay\Desktop\lesson2CSharp\Solution3\HomeWork-3\obj\Debug\HomeWork-3.pdb
