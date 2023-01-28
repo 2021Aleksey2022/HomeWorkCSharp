@@ -1,0 +1,14 @@
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\obj\Debug\HomeWork4.csproj.SuggestedBindingRedirects.cache
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\obj\Debug\HomeWork4.pdb
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\Utilis.dll
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\Utilis.pdb
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\obj\Debug\HomeWork4.csproj.CopyComplete
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\ArrayNumber.txt
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\ClassArray.dll
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\ClassArray.pdb
