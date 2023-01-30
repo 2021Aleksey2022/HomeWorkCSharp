@@ -12,3 +12,4 @@ C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\obj\Debug\HomeWork4.csp
 C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\ArrayNumber.txt
 C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\ClassArray.dll
 C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\ClassArray.pdb
+C:\Users\manay\Desktop\lesson2CSharp\Solution4\HomeWork4\bin\Debug\Baza.csv
